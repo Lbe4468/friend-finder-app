@@ -3,22 +3,22 @@ var friendsArray = [
   {
     name: "Fred Jones",
     photo: "https://upload.wikimedia.org/wikipedia/en/4/47/Fred_Jones.png",
-    scores: ["1", "5", "5", "1", "5", "5", "1", "1", "1", "5"]
+    scores: ["4", "5", "3", "1", "5", "5", "1", "1", "1", "5"]
   },
   {
     name: "Daphne Blake",
     photo: "https://upload.wikimedia.org/wikipedia/en/1/1d/Daphne_Blake.png",
-    scores: ["2", "4", "1", "1", "1", "1", "1", "2", "1", "5"]
+    scores: ["3", "5", "3", "1", "1", "1", "1", "2", "1", "5"]
   },
   {
     name: "Velma Dinkley",
     photo: "https://upload.wikimedia.org/wikipedia/en/9/9d/Velma_Dinkley.png",
-    scores: ["4", "3", "5", "1", "1", "5", "5", "1", "1", "1"]
+    scores: ["5", "5", "2", "1", "1", "5", "5", "1", "1", "1"]
   },
   {
     name: "Shaggy",
     photo: "https://upload.wikimedia.org/wikipedia/en/8/87/ShaggyRogers.png",
-    scores: ["5", "1", "2", "1", "3", "4", "1", "3", "3", "4"]
+    scores: ["1", "1", "5", "1", "3", "4", "1", "3", "3", "4"]
   },
   {
     name: "Scooby-Doo",
